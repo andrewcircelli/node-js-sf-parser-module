@@ -1,0 +1,26 @@
+{
+  "name": "node-js-sf-parser-module",
+  "version": "1.0.0",
+  "description": "parsing salesforce data using npm package",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewcircelli/node-js-sf-parser-module.git"
+  },
+  "keywords": [
+    "node",
+    "salesforce",
+    "parser",
+    "csv"
+  ],
+  "author": "andrew circelli",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andrewcircelli/node-js-sf-parser-module/issues"
+  },
+  "homepage": "https://github.com/andrewcircelli/node-js-sf-parser-module#readme"
+}
